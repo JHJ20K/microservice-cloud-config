@@ -12,7 +12,7 @@ spring:
     name: microservice-config-eureka
 
 eureka:
-  instance: 
+  instance:
     hostname: eureka6001.com
   client:
     registerWithEureka: false
