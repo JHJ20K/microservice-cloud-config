@@ -72,3 +72,5 @@ eureka:
        instance:
          instanceId: ${spring.application.name}:${server.port} #等价为后面灵活的反映出状态、、完善注册信息
          prefer-ip-address: true
+emp:
+  name: lisi
